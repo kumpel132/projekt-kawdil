@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Moja strona</title>
+</head>
+<body>
+    <h1>Witaj na mojej stronie!</h1>
+    <!-- Dodaj swój obrazek, grę lub program tutaj -->
+    <img src="moj_obrazek.jpg" alt="Mój obrazek" style="max-width: 100%; height: auto;">
+    <!-- Jeśli to jest gra, np. w HTML5, możesz dodać odpowiedni kod tutaj -->
+    <!-- Przykład osadzenia gry HTML5 -->
+    <!-- <iframe src="path_to_your_game/index.html" width="800" height="600"></iframe> -->
+</body>
+</html>
